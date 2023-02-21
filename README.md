@@ -13,11 +13,11 @@ Do not use reduce method.
 The class was then to be introduced to unit testing by created a test file.
 
 ## Other Prompts
-- Write a function that will return true or false based on if the number supplied is prime or not.
+- Write a function that will return true or false based on if the number supplied is prime or not. `isPrimeNumber.js`
 
-- Write a function that will perform a check to see if it is a palendrome. 
+- Write a function that will perform a check to see if it is a palendrome. `strings.js`
 
-- Use a .map() to return data in the way you would like it. (Look at dataExample.js vs Data.js) 
+- Use a .map() to return data in the way you would like it. (Look at dataExample.js vs Data.js). `objectMapper.js`
 
 
 ## Write Tests
